@@ -1,17 +1,21 @@
 # BUD_UI
 
 Custom Component Library
+
 Based On The React
 
 # Instruction
 
 You need to creat the React project before you can use BUD_UI.
+
 Each folder in the root directory is a specific custom component.
 
 ## Use Component
 
 *Example “Video_Component”*
+
 You need to open the video_component folder and read the README.md file.
+
 Find the dependencies and add them to your project dependencies.
 ```
 "dependencies": {
@@ -25,7 +29,7 @@ Find the dependencies and add them to your project dependencies.
 ```
 then
 ```
-    yarn    or  npm install
+    yarn  or  npm install
 ```
 finally start your project
 ```
