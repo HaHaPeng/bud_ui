@@ -1,13 +1,13 @@
 ## Component directory construction
 
 >  Category.js //Category component  
->  CPagination.js //Custom pagination component based on Class
->  FPagination.js //Custom pagination component based on function 
->  index.js //Main entry 
+>  CPagination.js //Custom pagination component based on Class  
+>  FPagination.js //Custom pagination component based on function  
+>  index.js //Main entry  
 >  index.less //Main css  
->  PopVideo.js //Video full screen popup component 
->  Video.js //Single video component
->  Videos.js //Multiple Video Components
+>  PopVideo.js //Video full screen popup component  
+>  Video.js //Single video component  
+>  Videos.js //Multiple Video Components  
 
 ---------------------------------------
 
